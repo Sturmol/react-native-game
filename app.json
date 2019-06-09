@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Halli Galli Game",
+    "orientation": "portrait",
+    "version": "0.0.1",
+    "privacy": "unlisted",
+    "sdkVersion": "27.0.0",
+    "platforms": ["ios", "android"]
+  }
+}
